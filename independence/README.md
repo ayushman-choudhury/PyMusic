@@ -1,5 +1,9 @@
 # Independence
 
+Check out the .wav output [here](https://drive.google.com/drive/folders/1Y7xn2D2IrMf8XWSyzj26Gw350WG4PYGT?usp=sharing).
+
+---
+
 This song explores Data Sonification through **rhythm**. Specifically, I use a method of converting text into rhythm that's been around for almost 2 centuries: Morse Code!
 
 As my data source, I use the United States Declaration of Independence. Although the U.S. Constitution is the legal document underpinning the United States, I frequently look to the Declaration as a guiding star for what our Founders intended for this place to be, and what compelled them to begin a revolution in order to create that place. 

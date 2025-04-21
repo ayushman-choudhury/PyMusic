@@ -1,5 +1,9 @@
 # Sirens
 
+Check out the .wav output [here](https://drive.google.com/drive/folders/1Y7xn2D2IrMf8XWSyzj26Gw350WG4PYGT?usp=sharing).
+
+---
+
 This song explores Data Sonification through **pitch** — how high or low a note is.
 
 The story of this composition begins during my sophomore year, when I attended a round-table conversation sponsored by the Data Science Institute, led by data journalist and Pulitzer-recipient Mona Chalabi. She mentioned a project that she had been inspired by, where a data scientist had taken income levels at stations along one line of the NYC Subway, and created a simple sine wave that grew higher and lower as incomes increased and decreased. What was striking was that listeners could hear and interpret the data based on their own personal experiences, i.e. they could name specific neighborhoods while listening to the audio based on their reputation for high or low incomes. The idea immediately caught by imagination, and my mind turned to what data sources I could apply this to. As I was wearing a mask at the time, my mind naturally turned to the COVID-19 Pandemic, for which data is publicly available from the World Health Organization. 

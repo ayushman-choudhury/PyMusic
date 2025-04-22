@@ -5,7 +5,7 @@ Hello! I am Ayushman Choudhury, graduating Brown University in the Class of 2025
 2. Use Python's ability to easily work with Big Data to construct interesting Data Sonifications
 3. Situate Python-generated sounds within the context of an otherwise-human instrumental ensemble
 
-In this repository, you can view the code I wrote and all the sheet music. You can check out the .wav outputs [here](https://drive.google.com/drive/folders/1Y7xn2D2IrMf8XWSyzj26Gw350WG4PYGT?usp=sharing).
+In this root folder, you can view all the code I wrote. In specific subfolders, you can read my own explanations about each piece, and check out the sheet music. You can check out the .wav outputs [here](https://drive.google.com/drive/folders/1Y7xn2D2IrMf8XWSyzj26Gw350WG4PYGT?usp=sharing).
 
 You're welcome to browse as you like, but if you're interested, the order of the program was:
 1. hello_world.py
